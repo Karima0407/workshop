@@ -1,0 +1,28 @@
+.cube {
+  background: #785fa5;
+  width: 180px;
+  height: 180px;
+  margin: left;
+  border-radius: 30px;
+  float: left;
+  margin: 2px;
+}
+
+.cube2{
+  background: #32af21;
+  width: 180px;
+  height: 180px;
+  border-radius: 30px;
+  margin: left;
+  float: left;
+  margin: 2px;
+}
+.retour{
+    clear: both;
+}
+p{
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
