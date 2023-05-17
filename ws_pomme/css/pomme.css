@@ -1,0 +1,51 @@
+body{
+    background-color: lightgreen;
+}
+.contenu{
+    width: 60%;
+    margin: auto;
+    background-color: white;
+   
+
+}
+.image{
+  justify-content: right;
+}
+
+nav{
+    background-color: forestgreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    color: white;
+}
+section{
+    display: flex;
+}
+
+main>section>ins{
+    color: forestgreen;
+}
+
+.texte{
+    color: black;
+    line-height: 2em;
+}
+
+header{
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+}
+
+.rr{
+    display: flex;
+}
+.tt{
+    margin-left: 120px;
+}
+h2{
+    color: forestgreen;
+}
