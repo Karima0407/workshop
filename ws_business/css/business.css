@@ -1,0 +1,8 @@
+.bg-primary{
+    background-color:beige;
+}
+.img-fluid{
+     max-width: 100%;
+     height: auto;
+}
+.d-flex{
