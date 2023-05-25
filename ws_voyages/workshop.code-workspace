@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../Users/EDW_2324/Desktop/workshop-voyages/img"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "workshop",
+    "liveServer.settings.port": 5501
+  }
+}
